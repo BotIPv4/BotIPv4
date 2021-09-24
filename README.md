@@ -13,6 +13,9 @@
   * Infernal Network
   * Nazaret Network
   * Kioto Network
+  * Vatryx Network
+  * Nasgar Network
+  * Crowl Network
 
 # Contacts
 
