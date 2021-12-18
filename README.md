@@ -1,12 +1,13 @@
 # Hi, I'm Vnco 🩸
 
-* I am learning java and experimenting with the Spigot API.
-
-# Ownership
-
-* Vnco Development | discord.vnco.club
+* I am learning java and experimenting with the Spigot API & JDA.
 
 # Developer Experience
+
+**Developments:**
+  * Refine Development
+  * Vnco Development
+  * Suxior Development
 
 **Servers:**
   * Gamely Network
@@ -16,9 +17,10 @@
   * Vatryx Network
   * Nasgar Network
   * Crowl Network
+  * Suxior Network
 
 # Contacts
 
-* Discord | Vnco#6666
+* Discord | Vnco#1315
 * Twitter | @OldVnco
 * Email | oldvnco@gmail.com
