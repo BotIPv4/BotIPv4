@@ -10,6 +10,7 @@
   * Suxior Development
 
 **Servers:**
+  * HazelMC Network
   * Gamely Network
   * Infernal Network
   * Nazaret Network
