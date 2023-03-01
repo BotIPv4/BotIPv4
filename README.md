@@ -1,4 +1,4 @@
-# Hi, I'm Vnco 🩸
+# Hi, I'm Bot 🩸
 
 * I am learning java and experimenting with the Spigot API & JDA.
 
