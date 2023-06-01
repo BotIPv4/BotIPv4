@@ -22,6 +22,4 @@
 
 # Contacts
 
-* Discord | Vnco#1315
-* Twitter | @OldVnco
-* Email | oldvnco@gmail.com
+* Discord | b0t#1315
