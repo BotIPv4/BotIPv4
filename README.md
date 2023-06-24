@@ -5,7 +5,6 @@
 # Developer Experience
 
 **Developments:**
-  * Refine Development
   * Vnco Development
   * Suxior Development
 
