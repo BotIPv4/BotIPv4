@@ -1,4 +1,4 @@
-# Hi, I'm Bot 🩸
+# Hi, I'm @bot.java 🩸
 
 * I am learning java and experimenting with the Spigot API & JDA.
 
@@ -6,10 +6,10 @@
 
 **Developments:**
   * Vnco Development
+  * Rage Development
   * Suxior Development
 
 **Servers:**
-  * HazelMC Network
   * Gamely Network
   * Infernal Network
   * Nazaret Network
@@ -18,7 +18,3 @@
   * Nasgar Network
   * Crowl Network
   * Suxior Network
-
-# Contacts
-
-* Discord | b0t#1315
